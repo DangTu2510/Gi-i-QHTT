@@ -1,0 +1,4 @@
+- Giải bài toán QHTT bằng phương pháp đánh thuế
+- Ngôn ngữ Python
+- Viết thuật toán dựa trên phương pháp giải bài toán đã được học tại trường
+- Sử dụng 
